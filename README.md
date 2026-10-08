@@ -10,3 +10,8 @@
 - somiyama
 - soujiki
 - soseishiki
+
+## myweb
+
+自作webサイト
+https://soseishiki404.dev
